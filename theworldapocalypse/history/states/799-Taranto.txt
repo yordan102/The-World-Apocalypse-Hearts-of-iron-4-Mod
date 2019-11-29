@@ -1,0 +1,26 @@
+state={
+	id=799
+	name="STATE_799"
+	manpower=969290
+	state_category = city
+	
+	provinces={
+		6979 9784 11837 11998 
+	}
+	
+	history = {
+	    owner = ITA
+		buildings = {
+		    infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 4
+			11998 = {
+				naval_base = 4
+
+			}
+
+		}
+		
+	buildings_max_level_factor=1.000
+}

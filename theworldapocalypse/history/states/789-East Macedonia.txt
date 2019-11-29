@@ -1,0 +1,28 @@
+state={
+	id=789
+	name="STATE_789"
+	manpower=328567
+	state_category = city
+	
+	provinces={
+		907 3833 3882 6886 
+	}
+	
+	resources = {
+	    steel = 2
+	}
+	
+	history = {
+	    owner = BUL
+		buildings = {
+		        infrastructure = 4
+				arms_factory = 1
+		        air_base = 4
+		}
+		victory_points = {
+			3882 5 
+		}
+	}
+	
+	buildings_max_level_factor=1.000
+}

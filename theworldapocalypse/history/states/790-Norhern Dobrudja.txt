@@ -1,0 +1,33 @@
+state={
+	id=790
+	name="STATE_790"
+	manpower=590876
+	state_category = city
+	
+	provinces={
+		657 687 3076 9635 
+	}
+	
+	resources = {
+	    oil = 3
+	}
+	
+	history = {
+	    owner = BUL
+		buildings = {
+		    infrastructure = 6
+			industrial_complex = 1
+			657 = {
+				naval_base = 8
+
+			}
+			687 = {
+				naval_base = 1
+
+			}
+			dockyard = 1
+		}
+	}
+	
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=788
+	name="STATE_788"
+	manpower=105007
+	state_category = rural
+	
+	provinces={
+		11832 11857 11868 
+	}
+	
+	history = {
+	    owner = BUL
+		buildings = {
+		    infrastructure = 5
+		}
+	}
+
+	buildings_max_level_factor=1.000
+}

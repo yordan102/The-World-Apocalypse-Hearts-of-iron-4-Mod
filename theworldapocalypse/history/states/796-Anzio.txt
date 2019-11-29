@@ -1,0 +1,32 @@
+state={
+	id=796
+	name="STATE_796"
+	manpower=560790
+	state_category = large_city
+	
+	provinces={
+		923 11846 11882 
+	}
+	
+	resources = {
+	    steel = 2
+		oil = 5
+	}
+	
+	history = {
+	    owner = NRM
+		buildings = {
+		    infrastructure = 6
+			arms_factory = 2
+			air_base = 2
+			11846 = {
+			      naval_base = 2
+
+			}
+		}
+		victory_points = {
+			11846 5 
+		}
+	}
+	buildings_max_level_factor=1.000
+}

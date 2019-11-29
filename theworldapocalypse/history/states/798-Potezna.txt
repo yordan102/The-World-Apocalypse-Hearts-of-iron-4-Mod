@@ -1,0 +1,29 @@
+state={
+	id=798
+	name="STATE_798"
+	manpower=1230456
+	state_category = city
+	
+	provinces={
+		851 3958 3968 6972 9856 
+	}
+	
+	resources = {
+	    aluminium = 2
+		rubber = 4
+	}
+	
+	history = (
+	    owner = ITA
+		buildings = {
+		    infrastructure = 4
+			industrial_complex = 2
+			air_base = 2
+			851 = {
+			      naval_base = 2
+
+			}
+		}
+		
+	buildings_max_level_factor=1.000
+}

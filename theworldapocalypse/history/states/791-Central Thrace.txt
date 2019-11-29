@@ -1,0 +1,25 @@
+state={
+	id=791
+	name="STATE_791"
+	manpower=69870
+	state_category = rural
+	
+	provinces={
+		11774 
+	}
+	
+	resources = {
+	    aluminium = 1
+	}
+	
+	history = {
+	    owner = BUL
+		buildings = {
+		    infrastructure = 5
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+
+	buildings_max_level_factor=1.000
+}
