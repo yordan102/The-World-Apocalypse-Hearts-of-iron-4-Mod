@@ -15,10 +15,10 @@ state={
 	}
 	
 	history = {
-	    owner = ITA
+	    owner = NRM
 		buildings = {
 		    infrastructure = 5
-			arms_factory = 2
+			arms_factory = 1
 			industrial_complex = 2
 			6980 = {
 				naval_base = 3

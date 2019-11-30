@@ -1,29 +1,29 @@
 state={
-	id=798
-	name="STATE_798"
-	manpower=1230456
+	id=800
+	name="STATE_800"
+	manpower=879680
 	state_category = city
 	
 	provinces={
-		851 3958 3968 6972 9856 
+		963 3923 3966 
 	}
-	
+		
 	resources = {
-	    aluminium = 2
-		rubber = 4
+	    tungsten = 3
 	}
 	
-	history = (
-	    owner = ITA
+	history = {
+	    owner = NRM
 		buildings = {
-		    infrastructure = 4
+		    infrastructure = 5
 			industrial_complex = 2
 			air_base = 2
-			851 = {
+			dockyard = 1
+			3966 = {
 			      naval_base = 2
 
 			}
 		}
-    }
+	}
 	buildings_max_level_factor=1.000
 }
